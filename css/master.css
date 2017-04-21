@@ -1089,6 +1089,11 @@ textarea:focus, input:focus, button:focus {
 }
 
 @media screen and (max-width: 765px) {
+  .section-one .info-container {
+    margin-top: 15%;
+    padding-top: 50px;
+    margin-left: 0px;
+  }
   .section-two .desc-div {
     margin-left: auto;
     margin-right: auto;
@@ -1103,11 +1108,6 @@ textarea:focus, input:focus, button:focus {
   .section-two .right {
     margin-top: 50px;
     padding: 50px 10px;
-  }
-  .section-one .info-container {
-    margin-top: 15%;
-    padding-top: 50px;
-    margin-left: 0px;
   }
   .section-six .fix {
     width: 100%;
@@ -1135,7 +1135,7 @@ textarea:focus, input:focus, button:focus {
 
 @media screen and (max-width: 400px) {
   .section-one .info-container {
-    margin-top: 5%;
+    margin-top: 3%;
     padding-top: 50px;
     margin-left: 0px;
   }
@@ -1155,17 +1155,20 @@ textarea:focus, input:focus, button:focus {
   .section-two .right .multiple-repeat {
     width: 75%;
   }
+  .section-three .side-tag {
+    width: 150px;
+  }
+  .section-four {
+    margin-top: -300px;
+  }
+  .section-four .wiggle {
+    width: 260px !important;
+  }
   .section-eight .side-tag {
     width: 150px;
   }
   .section-eight .wrap-sponsers .row {
     margin-left: 15px;
-  }
-  .section-three .side-tag {
-    width: 150px;
-  }
-  .section-four .wiggle {
-    width: 260px !important;
   }
   .section-last .input-box {
     width: 300px !important;
