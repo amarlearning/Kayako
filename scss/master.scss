@@ -34,10 +34,9 @@
 	.info-container {
 		margin-left: auto;
 		margin-right: auto;
-		margin-top: 15vh;
+		margin-top: 8%;
 		text-align: center;
 		margin-left: -80px;
-		background-color: red;
 
 		.p-date {
 			color: $pink;
@@ -1129,9 +1128,9 @@
 	.section-one {
 
 		.info-container {
-			margin-top: 15vh;
+			margin-top: 15%;
 			padding-top: 50px;
-			margin-left: auto;
+			margin-left: 0px;
 		}
 	}
 
@@ -1181,7 +1180,7 @@
 @media screen and (max-width: 400px) {
 	.section-one {
 		.info-container {
-			margin-top: 18vh;
+			margin-top: 6%;
 			padding-top: 50px;
 			margin-left: 0px;
 			p {
