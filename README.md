@@ -1,2 +1,2 @@
 # Kayako
-A small challenge. Are you up for it?
+Responsive event template using bootstrap 3 and scroll-reveal!
